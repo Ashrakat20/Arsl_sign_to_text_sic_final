@@ -9,4 +9,10 @@ This project aims to bridge communication gaps for Deaf and Hard of Hearing (DHH
 
 #### Web Deployment: Deploy the model on a website to make the translation service easily accessible to everyone.
 
-#### Dataset: Utilize a  dataset of Arabic Sign Language videos and character images for training.
+#### Dataset: Utilize a dataset of Arabic Sign Language videos and character images for training.
+
+# Kaggle Medal in day 1 of posting our Notebook
+
+https://www.kaggle.com/code/manarsabrii/arsl-translator-conv1d-acc-93
+#### The 2 notebooks are connected through link in the begining of each 
+
