@@ -16,6 +16,8 @@ This project aims to bridge communication gaps for Deaf and Hard of Hearing (DHH
 ## Demo
 
 
+![1](https://github.com/Ashrakat20/Arsl_sign_to_text_sic_final/assets/109802881/49ddb334-b549-4d6e-b2f1-5260cef46a4b)
+![2](https://github.com/Ashrakat20/Arsl_sign_to_text_sic_final/assets/109802881/447c3071-abfe-40f3-9194-33dd87e7a21e)
 
 # Kaggle Medal in day 1 of posting our Notebook
 
