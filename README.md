@@ -11,6 +11,10 @@ This project aims to bridge communication gaps for Deaf and Hard of Hearing (DHH
 
 #### Dataset: Utilize a dataset of Arabic Sign Language videos and character images for training.
 
+## Demo
+
+
+
 # Kaggle Medal in day 1 of posting our Notebook
 
 https://www.kaggle.com/code/manarsabrii/arsl-translator-conv1d-acc-93
